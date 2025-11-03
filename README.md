@@ -144,10 +144,11 @@ Your traffic is scored for anonymity risk:
 
 If you find this toolkit helpful, consider a small donation in crypto currencies:
 
-- **Bitcoin (BTC):** `129yB8kL8mQVZufNS4huajsdJPa48aHwHz`
+- **Bitcoin (BTC):** `bc1qhgek8p5qcwz7r6502y8tvenkpsw9w5yafhatxk`
 - **Nym:** `n1yql04xjhmlhfkjsk8x8g7fynm27xzvnk23wfys`  
 - **Monero (XMR):** `45TJx8ZHngM4GuNfYxRw7R7vRyFgfMVp862JqycMrPmyfTfJAYcQGEzT27wL1z5RG1b5XfRPJk97KeZr1svK8qES2z1uZrS`  
  - Or, if you prefer, [buy me a coffee.](https://buymeacoffee.com/ch1ffr3punk)
+
 
 
 
